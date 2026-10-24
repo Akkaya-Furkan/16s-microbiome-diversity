@@ -1,0 +1,66 @@
+{
+  "alpha_depth_sensitivity.tsv": {
+    "bytes": 165,
+    "sha256": "8a3314b06e1d6ea17a19f06a96c22366146f6084641f8c99d2faccb8f44acd36"
+  },
+  "alpha_diversity.png": {
+    "bytes": 88432,
+    "sha256": "2f8abac7e2be0121fcfbef244fec6c38eef67f02615f6511ce84b4e46f32071b"
+  },
+  "alpha_diversity.tsv": {
+    "bytes": 1475,
+    "sha256": "a9261ffaf8e2392ddfbdb1f130616e737616bad71a1a79efeac61b34937398ac"
+  },
+  "alpha_site_summary.tsv": {
+    "bytes": 481,
+    "sha256": "7a523406a0ec65f0b1db54e9f7334ae50b872ebf3d7d4d10e3c77895e6e8ffaa"
+  },
+  "alpha_subject_site_means.tsv": {
+    "bytes": 348,
+    "sha256": "f314b9d4828385eb1e124c9cfea45740c2a46ce2d76e5af38713baa75737f656"
+  },
+  "alpha_unrarefied.tsv": {
+    "bytes": 841,
+    "sha256": "be5965afb4116068dab2efb4cb9b2c6aedd0ee27d7fa0938934bd045b89c2da9"
+  },
+  "bray_curtis.tsv": {
+    "bytes": 16196,
+    "sha256": "cf6c226db610e2f8abe347ef85f6427363330f22e01c0f2cd985e7feacc6df62"
+  },
+  "library_sizes.png": {
+    "bytes": 41743,
+    "sha256": "8de308f8bb69ed6fd5340e558ef00446ec51d60ba86edba30e246d2bd73e19c1"
+  },
+  "pcoa_bray_curtis.png": {
+    "bytes": 85137,
+    "sha256": "4296eec0271c260a9008d5f9d26725def4a619d69ae5a8cf9c275f56e7fae65a"
+  },
+  "pcoa_coordinates.tsv": {
+    "bytes": 17970,
+    "sha256": "0284fb33f0af7dbf4dfd0cefa6af3ea68b32b70863af57353e5cd77f78a8134b"
+  },
+  "pcoa_eigenvalues.tsv": {
+    "bytes": 1167,
+    "sha256": "f7d4d960e65ae65723d4a22b1a374735fc6f60d572424cf0a94922bbcb9d3ad5"
+  },
+  "permutation_null.tsv": {
+    "bytes": 35419,
+    "sha256": "fc7620d33161b74b9117ab8eb7338a52ba71a1777a0a865863c261f0f851bf38"
+  },
+  "rarefied_counts.tsv": {
+    "bytes": 78662,
+    "sha256": "2b660abd421a1690aef86fe71720a0c78536a3adb85d34b40cf4e2b957779c68"
+  },
+  "sample_audit.tsv": {
+    "bytes": 1545,
+    "sha256": "b3804f21d0f515f20fefde64fbf2a51f8e0095fbcfe724928da9776a2ec981db"
+  },
+  "statistical_tests.tsv": {
+    "bytes": 337,
+    "sha256": "4ac8d3002cad1a3d7a1544535ce3e8fd5b662973a029fae340b45f7ba835df35"
+  },
+  "summary.json": {
+    "bytes": 1231,
+    "sha256": "497f6967829fa87298bc6f7e7bb467ede3844426e5328cf2f9cff540407cec79"
+  }
+}

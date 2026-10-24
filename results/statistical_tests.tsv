@@ -1,0 +1,5 @@
+test	statistic	p_exact	permutations_including_identity	r_squared	q_bh_alpha_family
+permanova	6.77015548728	0.0833333333333	576	0.458367245566	
+dispersion_positive_pcoa	6.13188024955	0.208333333333	576		
+alpha_shannon	0.491482192694	0.0833333333333	576		0.166666666667
+alpha_observed_asvs	1267.58506944	0.416666666667	576		0.416666666667

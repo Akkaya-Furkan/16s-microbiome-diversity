@@ -1,0 +1,53 @@
+{
+  "samples": 34,
+  "asvs": 770,
+  "subjects": 2,
+  "body_sites": 4,
+  "site_sample_counts": {
+    "gut": 8,
+    "left palm": 8,
+    "right palm": 9,
+    "tongue": 9
+  },
+  "raw_reads": 153807,
+  "raw_library_min": 897,
+  "raw_library_max": 9820,
+  "rarefaction_depth": 897,
+  "seed": 26,
+  "samples_dropped_normalization": 0,
+  "complete_visits": 7,
+  "inference_samples": 28,
+  "excluded_from_inference": [
+    "L1S8",
+    "L2S222",
+    "L3S242",
+    "L3S360",
+    "L5S104",
+    "L5S222"
+  ],
+  "permutations_per_test": 576,
+  "permanova_f": 6.770155487278756,
+  "permanova_r2": 0.45836724556554315,
+  "permanova_p": 0.08333333333333333,
+  "dispersion_p": 0.20833333333333334,
+  "alpha_p": {
+    "shannon": 0.08333333333333333,
+    "observed_asvs": 0.4166666666666667
+  },
+  "alpha_q": {
+    "shannon": 0.16666666666666666,
+    "observed_asvs": 0.4166666666666667
+  },
+  "negative_eigenvalues": 3,
+  "negative_inertia_fraction_absolute": 0.001530065608833761,
+  "pcoa_axes": 30,
+  "pc1_positive_inertia_fraction": 0.3082751094338226,
+  "pc2_positive_inertia_fraction": 0.2144258099480997,
+  "versions": {
+    "numpy": "2.2.6",
+    "pandas": "2.2.3",
+    "scipy": "1.15.3",
+    "matplotlib": "3.10.3",
+    "h5py": "3.13.0"
+  }
+}

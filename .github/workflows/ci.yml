@@ -1,0 +1,30 @@
+name: Diversity analysis CI
+on:
+  push:
+    branches: [main]
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  test-and-reproduce:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+      - run: python -m pip install -r requirements-lock.txt
+      - run: python -m pip install '.[test]' --no-deps
+      - name: Verify pinned source data offline
+        run: python scripts/download_data.py --verify-only
+      - name: Unit tests and offline reproduction
+        run: pytest -q --junitxml=/tmp/pytest.xml
+      - name: Reproduce artifacts
+        run: microdiv --output /tmp/p26-results
+      - uses: actions/upload-artifact@v4
+        with:
+          name: diversity-results
+          path: |
+            /tmp/p26-results/
+            /tmp/pytest.xml

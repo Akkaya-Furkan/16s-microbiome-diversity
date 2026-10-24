@@ -1,0 +1,10 @@
+{
+  "sample-metadata.tsv": {
+    "url": "https://data.qiime2.org/2024.10/tutorials/moving-pictures/sample_metadata.tsv",
+    "sha256": "9dbfbedd90776d77c431faa914d81b0d6299fff10c364216dbcd5c6df5382cc9"
+  },
+  "table-dada2.qza": {
+    "url": "https://docs.qiime2.org/2024.10/data/tutorials/moving-pictures/table-dada2.qza",
+    "sha256": "4cd349bb2ce750ceddc95a66a0d954d3a41f87ecadea16f75df44a94532779e3"
+  }
+}

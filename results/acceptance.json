@@ -1,0 +1,18 @@
+{
+  "checks": {
+    "two_hashed_sources": true,
+    "design_minimum": true,
+    "normalization": true,
+    "two_alpha_metrics": true,
+    "distance_valid": true,
+    "pcoa_axes": true,
+    "four_exact_tests": true,
+    "two_bh_values": true,
+    "machine_readable_outputs": true,
+    "three_figures": true
+  },
+  "passed": 10,
+  "expected": 10,
+  "machine_readable_files": 13,
+  "png_figures": 3
+}

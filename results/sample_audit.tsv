@@ -1,0 +1,35 @@
+sample-id	body-site	subject	days-since-experiment-start	raw_reads	normalized_reads	complete_visit_inference
+L1S105	gut	subject-1	140	7780	897	True
+L1S140	gut	subject-2	0	7163	897	True
+L1S208	gut	subject-2	84	8152	897	True
+L1S257	gut	subject-2	140	6388	897	True
+L1S281	gut	subject-2	168	6615	897	True
+L1S57	gut	subject-1	84	8702	897	True
+L1S76	gut	subject-1	112	7867	897	True
+L1S8	gut	subject-1	0	7033	897	False
+L2S155	left palm	subject-1	84	3932	897	True
+L2S175	left palm	subject-1	112	4386	897	True
+L2S204	left palm	subject-1	140	3158	897	True
+L2S222	left palm	subject-1	168	3187	897	False
+L2S240	left palm	subject-2	0	5061	897	True
+L2S309	left palm	subject-2	84	1419	897	True
+L2S357	left palm	subject-2	140	2373	897	True
+L2S382	left palm	subject-2	168	4089	897	True
+L3S242	right palm	subject-1	0	897	897	False
+L3S294	right palm	subject-1	84	1225	897	True
+L3S313	right palm	subject-1	112	1103	897	True
+L3S341	right palm	subject-1	140	962	897	True
+L3S360	right palm	subject-1	168	969	897	False
+L3S378	right palm	subject-2	0	1249	897	True
+L4S112	right palm	subject-2	140	8340	897	True
+L4S137	right palm	subject-2	168	9820	897	True
+L4S63	right palm	subject-2	84	9744	897	True
+L5S104	tongue	subject-1	0	2227	897	False
+L5S155	tongue	subject-1	84	1800	897	True
+L5S174	tongue	subject-1	112	1953	897	True
+L5S203	tongue	subject-1	140	2112	897	True
+L5S222	tongue	subject-1	168	2521	897	False
+L5S240	tongue	subject-2	0	1792	897	True
+L6S20	tongue	subject-2	84	6855	897	True
+L6S68	tongue	subject-2	140	5980	897	True
+L6S93	tongue	subject-2	168	6953	897	True

@@ -1,0 +1,35 @@
+sample-id	shannon	observed_asvs	body-site	subject
+L1S105	2.72714323804	56	gut	subject-1
+L1S140	2.62292982359	56	gut	subject-2
+L1S208	3.03108344675	70	gut	subject-2
+L1S257	3.15874093747	67	gut	subject-2
+L1S281	3.15818078719	62	gut	subject-2
+L1S57	2.88708640934	62	gut	subject-1
+L1S76	2.50534765203	49	gut	subject-1
+L1S8	2.12415214716	39	gut	subject-1
+L2S155	3.47730344907	94	left palm	subject-1
+L2S175	3.35655129115	84	left palm	subject-1
+L2S204	2.92100087216	76	left palm	subject-1
+L2S222	4.43824172192	130	left palm	subject-1
+L2S240	2.62050165912	37	left palm	subject-2
+L2S309	3.16561287801	57	left palm	subject-2
+L2S357	3.07946737933	48	left palm	subject-2
+L2S382	4.02057942552	113	left palm	subject-2
+L3S242	1.99298102852	20	right palm	subject-1
+L3S294	2.96852678106	40	right palm	subject-1
+L3S313	3.08916498125	46	right palm	subject-1
+L3S341	3.02078751218	46	right palm	subject-1
+L3S360	3.63778824589	56	right palm	subject-1
+L3S378	2.46029321253	30	right palm	subject-2
+L4S112	3.63822334031	121	right palm	subject-2
+L4S137	3.69480900741	109	right palm	subject-2
+L4S63	4.10612502091	156	right palm	subject-2
+L5S104	2.53998323411	26	tongue	subject-1
+L5S155	2.1818356217	21	tongue	subject-1
+L5S174	2.33659232289	28	tongue	subject-1
+L5S203	2.59630322299	29	tongue	subject-1
+L5S222	2.3346535274	25	tongue	subject-1
+L5S240	2.31673503794	22	tongue	subject-2
+L6S20	2.07272132187	40	tongue	subject-2
+L6S68	2.36465671603	37	tongue	subject-2
+L6S93	2.90388231024	41	tongue	subject-2
