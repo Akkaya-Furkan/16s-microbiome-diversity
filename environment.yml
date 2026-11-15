@@ -11,5 +11,5 @@ dependencies:
       - matplotlib==3.10.3
       - h5py==3.13.0
       - pyparsing==3.2.3
-      - pytest==8.3.5
-      - setuptools==80.9.0
+      - pytest==9.0.3
+      - setuptools==84.1.0
